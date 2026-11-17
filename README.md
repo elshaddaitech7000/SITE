@@ -1,7 +1,7 @@
 Privacy Policy
 Last Updated: June 4, 2026
 
-[Yemi Daniel/ElShaddai Technology]  operates the [Chemistry4Naija CBT app] mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+[Yemi Daniel/ElShaddai Technology]  operates the [4Naija CBT app] mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
 
@@ -14,7 +14,7 @@ Personal Data: While using our Service, we may ask you to provide us with certai
 Usage Data: We may also collect information that your mobile device sends whenever you visit our Service ("Usage Data"). This may include information such as your device's Internet Protocol address (e.g., IP address), device type, unique device IDs, the times and dates of your use, and other diagnostic data.
 
 2. Use of Data
-Chemistry4Naija app uses the collected data for various purposes:
+4Naija app uses the collected data for various purposes:
 
 To provide and maintain our Service.
 
@@ -61,4 +61,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 8. Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: ekshaddaitech7000@gmail.com
+By email: elshaddaitech7000@gmail.com
